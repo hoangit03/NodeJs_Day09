@@ -1,0 +1,6 @@
+20230621	14:14:16	119d5137-ae0b-4ebe-9980-f506e90ae33a	TypeError: authHeader?.startWith is not a function
+20230621	14:16:11	6415931b-e265-476b-a5b1-f8f7ef382dea	TypeError: authHeader?.startWith is not a function
+20230621	14:19:09	4b0475c8-d00e-470e-8a6b-95b4323fb29e	TypeError: authHeader?.startWith is not a function
+20230621	14:20:04	9b647d6c-c400-416c-bde7-c05705c8d356	TypeError: authHeader?.startWith is not a function
+20230621	14:20:57	cb4fbfcf-5a27-4918-a9db-dffe34b224e0	TypeError: authHeader?.startWith is not a function
+20230621	14:22:30	18eb2ad6-7d70-4040-95f7-c49757ee472d	TypeError: authHeader?.startWith is not a function
